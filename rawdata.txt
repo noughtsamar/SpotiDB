@@ -1,0 +1,297 @@
+
+---------------------------------------------
+Albums
+---------------------------------------------
+
+Album Name: Made In The A.M. (Deluxe Edition)
+Artist: One Direction
+Release Date: 2015-11-13
+Album Type: album
+Album Name: UTOPIA
+Artist: Travis Scott
+Release Date: 2023-07-28
+Album Type: album
+Album Name: Comme un saule
+Artist: Ghostly Kisses
+Release Date: 2023-06-20
+Album Type: single
+Album Name: In Tongues (Deluxe)
+Artist: Joji
+Release Date: 2018-02-14
+Album Type: album
+Album Name: BALLADS 1
+Artist: Joji
+Release Date: 2018-10-26
+Album Type: album
+Album Name: Nectar
+Artist: Joji
+Release Date: 2020-09-25
+Album Type: album
+Album Name: i think you think too much of me
+Artist: EDEN
+Release Date: 2016-08-19
+Album Type: album
+Album Name: - TRAGEDY +
+Artist: $NOT
+Release Date: 2020-03-06
+Album Type: album
+Album Name: SMITHEREENS
+Artist: Joji
+Release Date: 2022-11-04
+Album Type: album
+Album Name: SKY ON FIRE
+Artist: mehro
+Release Date: 2021-03-25
+Album Type: album
+Album Name: Superache
+Artist: Conan Gray
+Release Date: 2022-06-24
+Album Type: album
+Album Name: Harry's House
+Artist: Harry Styles
+Release Date: 2022-05-20
+Album Type: album
+Album Name: Dawn FM
+Artist: The Weeknd
+Release Date: 2022-01-06
+Album Type: album
+Album Name: All Over The Place (Platinum Edition)
+Artist: KSI
+Release Date: 2021-07-16
+Album Type: album
+Album Name: Chanel
+Artist: Frank Ocean
+Release Date: 2017-03-10
+Album Type: single
+
+
+-----------------------------------------------------------
+playlists
+-----------------------------------------------------------
+
+
+Playlist Name: a little bit colder
+Owner: samar
+Total Tracks: 35
+Playlist Name: somebody in another skin
+Owner: samar
+Total Tracks: 13
+Playlist Name: late nights and lonely
+Owner: samar
+Total Tracks: 38
+Playlist Name: you'll always come back here
+Owner: samar
+Total Tracks: 32
+Playlist Name: 🥶
+Owner: samar
+Total Tracks: 114
+Playlist Name: rap rap
+Owner: samar
+Total Tracks: 196
+Playlist Name: aesthetic shit
+Owner: samar
+Total Tracks: 393
+Playlist Name: very generic pop music
+Owner: samar
+Total Tracks: 563
+
+
+-----------------------------------------------
+saved tracks
+-----------------------------------------------
+
+
+
+Track Name: Show Me How
+Artists: ['Men I Trust']
+Track Duration (ms): 215110
+Track Name: Tree Among Shrubs
+Artists: ['Men I Trust']
+Track Duration (ms): 188301
+Track Name: Hold Me Like You Used To
+Artists: ['Zoe Wees']
+Track Duration (ms): 186974
+Track Name: FE!N (feat. Playboi Carti)
+Artists: ['Travis Scott', 'Playboi Carti']
+Track Duration (ms): 191700
+Track Name: Sixty
+Artists: ['Weston Estate']
+Track Duration (ms): 136760
+Track Name: Set Fire to the Rain
+Artists: ['Adele']
+Track Duration (ms): 242973
+Track Name: Italian Wine
+Artists: ['Marjan Farsad']
+Track Duration (ms): 252117
+Track Name: HYAENA
+Artists: ['Travis Scott']
+Track Duration (ms): 222085
+Track Name: Zombie
+Artists: ['Ghostly Kisses']
+Track Duration (ms): 204160
+Track Name: J'ai demandé à la lune
+Artists: ['Ghostly Kisses', 'Louis-Étienne Santais']
+Track Duration (ms): 205413
+Track Name: Heartbeat
+Artists: ['Ghostly Kisses']
+Track Duration (ms): 230587
+Track Name: The City Holds My Heart
+Artists: ['Ghostly Kisses']
+Track Duration (ms): 242813
+Track Name: Reanimator (feat. Yves Tumor)
+Artists: ['Joji', 'Yves Tumor']
+Track Duration (ms): 183256
+Track Name: Glimpse of Us
+Artists: ['Joji']
+Track Duration (ms): 233456
+Track Name: The Mannequin Song
+Artists: ['Hotel Ugly']
+Track Duration (ms): 164210
+Track Name: Doja
+Artists: ['$NOT', 'A$AP Rocky']
+Track Duration (ms): 171453
+Track Name: Piano Trio in B-Flat Major, Op. 97: I. Allegro moderato
+Artists: ['Ludwig van Beethoven', 'Emanuel Feuermann', 'Arthur Rubinstein', 'Jascha Heifetz']
+Track Duration (ms): 705320
+Track Name: Every Summertime
+Artists: ['NIKI']
+Track Duration (ms): 215686
+Track Name: Die For You
+Artists: ['Joji']
+Track Duration (ms): 211666
+Track Name: Mutual Butterflies
+Artists: ['Ryan Trey']
+Track Duration (ms): 183875
+
+
+----------------------------------------------------------
+top songs
+----------------------------------------------------------
+
+
+1. Track Name: Good Looking
+   Artist: Suki Waterhouse
+   Album: Good Looking
+   Popularity: 83
+2. Track Name: Coffee
+   Artist: beabadoobee
+   Album: Coffee
+   Popularity: 71
+3. Track Name: We Met On The Internet
+   Artist: Will Joseph Cook
+   Album: Every Single Thing
+   Popularity: 45
+4. Track Name: Sangria (feat. Denzel Curry)
+   Artist: $NOT
+   Album: Beautiful Havoc
+   Popularity: 55
+5. Track Name: Rest
+   Artist: Sabu
+   Album: Rest
+   Popularity: 23
+6. Track Name: Calling For You (feat. 21 Savage)
+   Artist: Drake
+   Album: For All The Dogs
+   Popularity: 77
+7. Track Name: First Person Shooter (feat. J. Cole)
+   Artist: Drake
+   Album: For All The Dogs
+   Popularity: 80
+8. Track Name: Let's Fall in Love for the Night
+   Artist: FINNEAS
+   Album: Blood Harmony
+   Popularity: 74
+9. Track Name: I Don’t Wanna Live Forever (Fifty Shades Darker)
+   Artist: ZAYN
+   Album: reputation Stadium Tour Surprise Song Playlist
+   Popularity: 84
+10. Track Name: I'm Not The Only One
+   Artist: Sam Smith
+   Album: In The Lonely Hour
+   Popularity: 87
+
+
+-------------------------------------------------------
+follow
+-------------------------------------------------------
+
+Artist Name: Bruno Mars
+Popularity: 86
+Genres: dance pop, pop
+Followers: 51806934
+Artist Name: Weston Estate
+Popularity: 51
+Genres:
+Followers: 122204
+Artist Name: Niall Horan
+Popularity: 73
+Genres: pop
+Followers: 9826354
+Artist Name: The Weeknd
+Popularity: 93
+Genres: canadian contemporary r&b, canadian pop, pop
+Followers: 73758985
+Artist Name: ROLE MODEL
+Popularity: 55
+Genres: alt z, bedroom pop, pov: indie
+Followers: 406996
+Artist Name: Justin Bieber
+Popularity: 86
+Genres: canadian pop, pop
+Followers: 74369011
+Artist Name: Avicii
+Popularity: 78
+Genres: dance pop, edm, pop, pop dance
+Followers: 23134039
+Artist Name: Kygo
+Popularity: 75
+Genres: edm, pop, pop dance, tropical house
+Followers: 8414682
+Artist Name: Post Malone
+Popularity: 86
+Genres: dfw rap, melodic rap, pop, rap
+Followers: 42495011
+Artist Name: Lil Peep
+Popularity: 79
+Genres: cloud rap, emo rap, lgbtq+ hip hop
+Followers: 10876421
+Artist Name: Clairo
+Popularity: 74
+Genres: bedroom pop, indie pop, pov: indie
+Followers: 4229141
+Artist Name: One Direction
+Popularity: 81
+Genres: boy band, pop, post-teen pop, talent show
+Followers: 33663905
+Artist Name: Kodaline
+Popularity: 66
+Genres: irish pop, modern rock
+Followers: 2996254
+Artist Name: Mac Miller
+Popularity: 80
+Genres: hip hop, pittsburgh rap, pop rap, rap
+Followers: 9658867
+Artist Name: Conan Gray
+Popularity: 76
+Genres: bedroom pop, pop, pov: indie
+Followers: 8554851
+Artist Name: Logic
+Popularity: 72
+Genres: conscious hip hop, hip hop, pop rap, rap
+Followers: 5951337
+Artist Name: 5 Seconds of Summer
+Popularity: 75
+Genres: boy band, pop
+Followers: 9715108
+Artist Name: ZAYN
+Popularity: 73
+Genres: pop, uk pop
+Followers: 22766497
+Artist Name: Doja Cat
+Popularity: 87
+Genres: dance pop, pop
+Followers: 27025768
+Artist Name: Liam Payne
+Popularity: 60
+Genres: pop
+Followers: 10284480
